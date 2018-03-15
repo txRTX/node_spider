@@ -1,3 +1,6 @@
+
+下载到文件夹 首先 npm install 下载所以依赖
+
 npm start 开启服务
 
 

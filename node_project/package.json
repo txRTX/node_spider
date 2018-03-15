@@ -1,0 +1,18 @@
+{
+  "name": "spider",
+  "version": "0.0.0",
+  "description": "learn nodejs on github",
+  "scripts": {
+    "start": "node tx_spider.js"
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "cheerio": "^0.20.0",
+    "ejs": "^2.5.7",
+    "eventproxy": "^0.3.4",
+    "express": "^4.9.5",
+    "https": "^1.0.0",
+    "request": "^2.85.0",
+    "superagent": "^2.0.0"
+  }
+}
